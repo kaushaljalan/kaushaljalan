@@ -5,7 +5,7 @@
    <img align="right" src="https://media1.tenor.com/images/5eb5f52888234b0329eba8f08a857af1/tenor.gif?itemid=18667654"/>
 
 
-I'm a pre-final Student of **Computer Science & Engineering [@BMSCE](https://www.bmsce.ac.in)** in Bangalore. I can work as a **Javascript Developer**. I love to solve problems and have deep interest in Competitive Programming. I'm a passionate coder who desires to learn and explore technical, analytical and problem-solving skills and has an interest in solving various algorithmic and mathematical related problems.
+I'm a pre-final Student of **Computer Science & Engineering [@BMSCE](https://www.bmsce.ac.in)** in Bangalore. I can work as a **Javascript Developer**. I love to solve problems and have deep interest in **Competitive Programming**. I'm a passionate coder who desires to learn and explore technical, analytical and problem-solving skills and has an interest in solving various algorithmic and mathematical related problems.
 
 ### Talking about Personal Stuffs:
 
