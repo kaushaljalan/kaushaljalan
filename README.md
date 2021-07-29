@@ -9,7 +9,6 @@ I'm a pre-final Student of **Computer Science & Engineering [@BMSCE](https://www
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React.
 - 🚀 &nbsp; I’m currently acquiring more knowledge on Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/kaushaljalan).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/kaushaljalan/kaushaljalan/issues)! _anything really! even if I have 0 idea about it, will learn a thing or two!_
