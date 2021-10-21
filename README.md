@@ -48,7 +48,7 @@ I'm a pre-final Student of **Computer Science & Engineering [@BMSCE](https://www
 <br/>
 <br/>
 <p align='center'>
-   <a href="https://www.linkedin.com/in//"><img height="30" src="https://howtowritebetter.net/wp-content/uploads/2015/11/HTWB-LinkedIn.jpg"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/kaushal-jalan/"><img height="30" src="https://howtowritebetter.net/wp-content/uploads/2015/11/HTWB-LinkedIn.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/kaushal.jalan.94"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsteaGC9HX2M0Q-9T3LQH3Zb8nRw3wvBFEbA&usqp=CAU"></a>&nbsp;&nbsp;
 
  </p>
