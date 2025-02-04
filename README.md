@@ -49,13 +49,13 @@ DevSecOps: Docker, CI/CD, GitHub Actions, Security Automation
 - **GitHub**: [github.com/kaushaljalan](https://github.com/kaushaljalan)
 - **LinkedIn**: [linkedin.com/in/kaushal-jalan](https://www.linkedin.com/in/kaushal-jalan/)
 - **Twitter**: [twitter.com](https://twitter.com/) (Stock Market Updates & Tech)
-- **Email**: kaushal.jln@gmail.com
+- **Email**: kaushaljalan99@gmail.com
 
 ---
 
 ### 🎯 What I'm Looking For
 - Engaging in **open-source projects & cloud security innovations**.
-- Exploring **MTS-3 roles at high-impact tech companies**.
+- Exploring **Senior-SWE roles at high-impact tech companies**.
 - Collaborating with **like-minded engineers & security enthusiasts**.
 
 **Let's build something great! 🚀**
