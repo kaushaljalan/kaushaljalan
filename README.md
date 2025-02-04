@@ -9,9 +9,11 @@ I specialize in designing and building scalable backend systems, working with di
 ### 🔥 About Me  
 - 💻 Currently, I am working at **Oracle Cloud Infrastructure (OCI)** on **CloudGuard**, focusing on **container security, AI/ML-driven threat detection, and cloud security automation**.  
 - 🛠️ Experienced in **Java, Golang, Spring Boot, Kubernetes, Apache Kafka, Redis, Postgres, AWS, and OCI**.  
-- 📈 Passionate about **system design, DevSecOps, microservices, and cloud infrastructure**.  
-- 🏆 Competitive Programmer | Participated in **Codeforces, CodeChef, and Google Kickstart**.  
-- ✍️ I post about **Indian stock market insights** on Twitter. Follow me [here](https://twitter.com/)!
+- 📈 Passionate about **system design, DevSecOps, microservices, and cloud infrastructure**.
+- ☁️ Love exploring **cloud computing, high-performance computing, and AI-driven systems**.
+- 👨🏻‍💻 Actively contributing to **open-source projects** and looking to collaborate with developers worldwide.  
+- 🏆 Competitive Programmer | Participates in **Codeforces, CodeChef, and Google Kickstart**.  
+- ✍️ I post about **Indian stock market insights** on Twitter. Follow me [here](https://x.com/kaushaljln)!
 
 ---
 
@@ -45,11 +47,33 @@ DevSecOps: Docker, CI/CD, GitHub Actions, Security Automation
 
 ---
 
-### 📫 Connect with Me
-- **GitHub**: [github.com/kaushaljalan](https://github.com/kaushaljalan)
-- **LinkedIn**: [linkedin.com/in/kaushal-jalan](https://www.linkedin.com/in/kaushal-jalan/)
-- **Twitter**: [twitter.com](https://twitter.com/) (Stock Market Updates & Tech)
-- **Email**: kaushaljalan99@gmail.com
+## 🚀 Open Source Contributions  
+I'm passionate about **open-source development** and always looking for ways to contribute to impactful projects. Some areas of interest:  
+- 🛠 **Backend Systems**  
+- 🔗 **Distributed Systems**  
+- 📡 **Cloud & Infrastructure**  
+- 🚀 **High-Performance Computing**  
+- 🧠 **AI for System Optimization**
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaushaljalan&show_icons=true&theme=radical" alt="Kaushal's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushaljalan&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Connect with Me  
+- [**GitHub**](https://github.com/kaushaljalan)  
+- [**LinkedIn**](https://www.linkedin.com/in/kaushal-jalan/)  
+- [**X**](https:/x.com/kaushaljln)  
+- [**Email**](mailto:kaushaljalan99@gmail.com)  
 
 ---
 
