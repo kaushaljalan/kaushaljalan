@@ -1,55 +1,61 @@
-## Hi there, I'm Kaushal 👋 
+### Hi there, I'm Kaushal Jalan 👋
 
+🚀 **Software Engineer | Backend Developer | Cloud Security Enthusiast**
 
+I specialize in designing and building scalable backend systems, working with distributed systems, and optimizing cloud security solutions. With over 4 years of experience in backend development, I have contributed to various large-scale projects across **Oracle Cloud Infrastructure, Zeta, and Walmart Global Tech**.
 
-   <img align="right" src="https://media1.tenor.com/images/5eb5f52888234b0329eba8f08a857af1/tenor.gif?itemid=18667654"/>
+---
 
+### 🔥 About Me  
+- 💻 Currently, I am working at **Oracle Cloud Infrastructure (OCI)** on **CloudGuard**, focusing on **container security, AI/ML-driven threat detection, and cloud security automation**.  
+- 🛠️ Experienced in **Java, Golang, Spring Boot, Kubernetes, Apache Kafka, Redis, Postgres, AWS, and OCI**.  
+- 📈 Passionate about **system design, DevSecOps, microservices, and cloud infrastructure**.  
+- 🏆 Competitive Programmer | Participated in **Codeforces, CodeChef, and Google Kickstart**.  
+- ✍️ I post about **Indian stock market insights** on Twitter. Follow me [here](https://twitter.com/)!
 
-I'm a recent graduate pursued **Computer Science & Engineering [@BMSCE](https://www.bmsce.ac.in)** in Bangalore. I love to solve problems and have deep interest in **Competitive Programming**. I'm a passionate coder who desires to learn and explore technical, analytical and problem-solving skills and has an interest in solving various algorithmic and mathematical related problems.
+---
 
-### Talking about Personal Stuffs:
+### 🏗️ Notable Projects & Contributions
+#### 🛡️ **OCI CloudGuard (Cloud Security & AI/ML Initiatives)**
+- Designed & deployed **30+ real-time threat detection rules** for containerized workloads.
+- Enhanced **OCI security posture** with AI/ML-driven risk analysis.
+- Led DevSecOps initiatives for improved **system resiliency & cost optimization**.
 
-- 🚀 &nbsp; I’m currently acquiring more knowledge on Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/kaushaljalan).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/kaushaljalan/kaushaljalan/issues)! _anything really! even if I have 0 idea about it, will learn a thing or two!_
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- ⚡ &nbsp; Interesting Thought: _The most impressive technology in the world today all boils down to just 2 things, an **on (1)** or an **off (0)**_
-- 📫 &nbsp; How to reach me: kaushaljln40@gmail.com
+#### 💰 **Olympus Home – Zeta (Multi-Tenant SaaS Marketplace)**
+- Implemented **Redis-based caching system**, reducing latency & improving service availability.
+- Designed backend **microservices for tenant onboarding & metadata management**.
+- Integrated with **Kafka, AWS, and Postgres** for seamless data flow.
 
-<br/>
+#### 🚚 **Walmart Global Tech (Scalable APIs for Supply Chain & Compliance)**
+- Developed **dynamic transportation rate calculations & shipping diversion APIs**.
+- Implemented **business rules for global trade & logistics**.
+- Ensured high code coverage with **JUnit & Mockito**.
 
-**Languages and Tools:** 
+---
 
-<p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="kaushal's github stats" src="https://github-readme-stats.vercel.app/api?username=kaushaljalan&show_icons=true&hide_border=true" />
-  </a>
-
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg"></code>
-     <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-     <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-</p>
-<br/>
-<br/>
-<p align="left">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=kaushaljalan&column=5&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
-<br/>
-<br/>
-<p align='center'>
-   <a href="https://www.linkedin.com/in/kaushal-jalan/"><img height="30" src="https://howtowritebetter.net/wp-content/uploads/2015/11/HTWB-LinkedIn.jpg"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/kaushal.jalan.94"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsteaGC9HX2M0Q-9T3LQH3Zb8nRw3wvBFEbA&usqp=CAU"></a>&nbsp;&nbsp;
-
- </p>
+### ⚡ Tech Stack
+```yaml
+Backend: Java, Golang, Python, Spring Boot, Dropwizard
+Cloud: AWS, Oracle Cloud Infrastructure (OCI), Kubernetes, Terraform
+Databases: PostgreSQL, Redis, DynamoDB
+Streaming & Messaging: Apache Kafka
+Monitoring & Logging: Grafana, Prometheus, OpenTelemetry
+DevSecOps: Docker, CI/CD, GitHub Actions, Security Automation
 ```
+
+---
+
+### 📫 Connect with Me
+- **GitHub**: [github.com/kaushaljalan](https://github.com/kaushaljalan)
+- **LinkedIn**: [linkedin.com/in/kaushal-jalan](https://www.linkedin.com/in/kaushal-jalan/)
+- **Twitter**: [twitter.com](https://twitter.com/) (Stock Market Updates & Tech)
+- **Email**: kaushal.jln@gmail.com
+
+---
+
+### 🎯 What I'm Looking For
+- Engaging in **open-source projects & cloud security innovations**.
+- Exploring **MTS-3 roles at high-impact tech companies**.
+- Collaborating with **like-minded engineers & security enthusiasts**.
+
+**Let's build something great! 🚀**
