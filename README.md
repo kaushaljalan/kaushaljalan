@@ -69,14 +69,6 @@ I'm passionate about **open-source development** and always looking for ways to 
 
 ---
 
-## 📫 Connect with Me  
-- [**GitHub**](https://github.com/kaushaljalan)  
-- [**LinkedIn**](https://www.linkedin.com/in/kaushal-jalan/)  
-- [**X**](https:/x.com/kaushaljln)  
-- [**Email**](mailto:kaushaljalan99@gmail.com)  
-
----
-
 ### 🎯 What I'm Looking For
 - Engaging in **open-source projects & cloud security innovations**.
 - Exploring **Senior-SWE roles at high-impact tech companies**.
