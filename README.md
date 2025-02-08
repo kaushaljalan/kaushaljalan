@@ -1,4 +1,4 @@
-### Hi there, I'm Kaushal Jalan 👋
+### Hi there, I'm Kaushal 👋
 
 🚀 **Software Engineer | Backend Developer | Cloud Security Enthusiast**
 
