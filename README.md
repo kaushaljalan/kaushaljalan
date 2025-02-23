@@ -19,9 +19,12 @@ I specialize in designing and building scalable backend systems, working with di
 
 ### 🏗️ Notable Projects & Contributions
 #### 🛡️ **OCI CloudGuard (Cloud Security & AI/ML Initiatives)**
-- Designed & deployed **30+ real-time threat detection rules** for containerized workloads.
-- Enhanced **OCI security posture** with AI/ML-driven risk analysis.
-- Led DevSecOps initiatives for improved **system resiliency & cost optimization**.
+- Designed & developed **Log Insight Detector (LID)** for **real-time log-based threat detection**.
+- Implemented **Data Source Events Purge Job**, optimizing storage by automating log retention (7-day/10K limit for success events, 30-day for failures).
+- Architected a **scalable alerting system** using **Managed Lists, Alert Throttling, and Redis-backed deduplication**, reducing redundant problem alerts by **70%**.
+- Revamped **Data Source & Rule Architecture**, transitioning from a rigid 1:1 model to a flexible N:N mapping.
+- Enhanced **OCI security posture** with **AI/ML-driven risk detection & automated response strategies**.
+- Led **DevSecOps enhancements**, streamlining **system resiliency & reducing operational costs**.
 
 #### 💰 **Olympus Home – Zeta (Multi-Tenant SaaS Marketplace)**
 - Implemented **Redis-based caching system**, reducing latency & improving service availability.
